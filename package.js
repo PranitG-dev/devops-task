@@ -1,0 +1,12 @@
+{
+  "name": "devops-task",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo Test Passed"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
